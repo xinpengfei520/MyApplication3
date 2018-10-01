@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/MyApplication3.iml" filepath="$PROJECT_DIR$/MyApplication3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ScrollTest/ScrollTest.iml" filepath="$PROJECT_DIR$/ScrollTest/ScrollTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/auto_attribute/auto_attribute.iml" filepath="$PROJECT_DIR$/auto_attribute/auto_attribute.iml" />
+      <module fileurl="file://$PROJECT_DIR$/contactsindex_app/contactsindex_app.iml" filepath="$PROJECT_DIR$/contactsindex_app/contactsindex_app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/like_viewpager_app/like_viewpager_app.iml" filepath="$PROJECT_DIR$/like_viewpager_app/like_viewpager_app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/likeiphoneswitch_app/likeiphoneswitch_app.iml" filepath="$PROJECT_DIR$/likeiphoneswitch_app/likeiphoneswitch_app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mywave_app/mywave_app.iml" filepath="$PROJECT_DIR$/mywave_app/mywave_app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/popupwindow_app/popupwindow_app.iml" filepath="$PROJECT_DIR$/popupwindow_app/popupwindow_app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/propertyanimation/propertyanimation.iml" filepath="$PROJECT_DIR$/propertyanimation/propertyanimation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/slidemenu_app/slidemenu_app.iml" filepath="$PROJECT_DIR$/slidemenu_app/slidemenu_app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/switch_app/switch_app.iml" filepath="$PROJECT_DIR$/switch_app/switch_app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/viewpager_app/viewpager_app.iml" filepath="$PROJECT_DIR$/viewpager_app/viewpager_app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/youku_app/youku_app.iml" filepath="$PROJECT_DIR$/youku_app/youku_app.iml" />
+    </modules>
+  </component>
+</project>

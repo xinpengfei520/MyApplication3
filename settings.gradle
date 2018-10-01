@@ -1,0 +1,1 @@
+include ':viewpager_app', ':youku_app', ':popupwindow_app', ':propertyanimation', ':switch_app', ':auto_attribute', ':like_viewpager_app', ':contactsindex_app', ':slidemenu_app', ':likeiphoneswitch_app', ':mywave_app', 'ScrollTest', 'app'

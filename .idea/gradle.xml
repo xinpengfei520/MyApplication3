@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="distributionType" value="LOCAL" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="gradleHome" value="D:\Program Files\Android\Android Studio\gradle\gradle-2.14.1" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/ScrollTest" />
+            <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/auto_attribute" />
+            <option value="$PROJECT_DIR$/contactsindex_app" />
+            <option value="$PROJECT_DIR$/like_viewpager_app" />
+            <option value="$PROJECT_DIR$/likeiphoneswitch_app" />
+            <option value="$PROJECT_DIR$/mywave_app" />
+            <option value="$PROJECT_DIR$/popupwindow_app" />
+            <option value="$PROJECT_DIR$/propertyanimation" />
+            <option value="$PROJECT_DIR$/slidemenu_app" />
+            <option value="$PROJECT_DIR$/switch_app" />
+            <option value="$PROJECT_DIR$/viewpager_app" />
+            <option value="$PROJECT_DIR$/youku_app" />
+          </set>
+        </option>
+        <option name="resolveModulePerSourceSet" value="false" />
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

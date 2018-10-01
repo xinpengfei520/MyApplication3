@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/background"
+    tools:context="com.atguigu.contactsindex_app.MainActivity">
+
+    <com.atguigu.contactsindex_app.SearchView
+        android:id="@+id/ed_main_search"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"/>
+
+    <ListView
+        android:id="@+id/lv_main"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@id/ed_main_search"/>
+    
+    <TextView
+        android:visibility="gone"
+        android:id="@+id/tv_main_letter"
+        android:layout_width="80dp"
+        android:layout_height="80dp"
+        android:layout_centerInParent="true"
+        android:background="#9900ff00"
+        android:gravity="center"
+        android:textSize="30sp"
+        android:text="A"/>
+
+    <com.atguigu.contactsindex_app.IndexView
+        android:id="@+id/index_words"
+        android:layout_width="30dp"
+        android:layout_height="match_parent"
+        android:layout_alignParentRight="true"
+        android:background="#99ff0000"
+        android:layout_below="@id/ed_main_search"/>
+    
+</RelativeLayout>
